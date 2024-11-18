@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"原始章节字数":null,"译文章节字数":null,"创建时间":"Invalid date","修改时间":"2024-11-03, 18:16:20","作者注":null,"译者注":null,"permalink":"/tp-写作模板/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/tp-写作模板/","created":"2024-10-19T23:53:59.827+08:00","updated":"2024-11-03T18:16:20.197+08:00"}
 ---
 
